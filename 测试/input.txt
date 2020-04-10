@@ -1,0 +1,3 @@
+the input line 1st
+the input line 2nd
+the input line 3rd
